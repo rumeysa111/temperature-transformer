@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.input-field,
+.select-field,
+.convert-btn {
+  padding: 10px;
+  margin: 0 5px;
+  font-size: 1rem;
+}
+
+.result-container {
+  margin-top: 20px;
+}
+
+.result,
+.error {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.error {
+  color: red;
+}
+.App {
+  text-align: center;
+  margin-top: 50px;
+  background-color: #ffffcc; /* Sarı arka plan rengi */
+  padding: 20px;
+}
